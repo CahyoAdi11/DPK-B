@@ -1,0 +1,316 @@
+.background-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 900px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.group-child42,
+.image-icon8 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-31xl);
+}
+.group-child42 {
+  left: calc(50% - 646px);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1292px;
+  height: 707px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.image-icon8 {
+  width: 81.58%;
+  right: 100%;
+  left: -81.58%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 708px;
+  object-fit: cover;
+}
+.group-child43 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 1938px);
+  width: 849px;
+  height: 715px;
+}
+.room-01 {
+  position: absolute;
+  top: 65px;
+  left: -1146px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 394px;
+  height: 60px;
+}
+.rectangle-parent27 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 646px);
+  width: 1292px;
+  height: 708px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-77xl);
+}
+.group-child44 {
+  position: absolute;
+  height: 79.05%;
+  width: 100.42%;
+  top: 8.45%;
+  right: -0.21%;
+  bottom: 12.5%;
+  left: -0.21%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.room-menyediakan-pelayanan7 {
+  margin: 0;
+}
+.kursi {
+  margin-bottom: 0;
+}
+.kursi-pendingin-ruangan-free-w {
+  margin: 0;
+  padding-left: var(--padding-lgi);
+}
+.deskripsi7,
+.room-menyediakan-pelayanan-container7 {
+  position: absolute;
+  height: 88.85%;
+  width: 94.7%;
+  top: 11.15%;
+  left: 3.18%;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.deskripsi7 {
+  top: 0;
+  left: 15px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abel);
+  color: var(--color-white);
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.rectangle-parent28 {
+  position: absolute;
+  height: 41.81%;
+  width: 36.53%;
+  top: 19.63%;
+  right: 55.19%;
+  bottom: 38.56%;
+  left: 8.28%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-gray-600);
+  font-family: var(--font-inherit);
+}
+.group-child45 {
+  position: absolute;
+  height: 74.65%;
+  width: 100.42%;
+  top: 26.76%;
+  right: -0.21%;
+  bottom: -1.41%;
+  left: -0.21%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.harga4,
+.rp-120000001 {
+  position: absolute;
+  top: 50.7%;
+  left: 15.47%;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.harga4 {
+  top: 0;
+  left: 22px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  text-shadow: 0 4px 100px #000;
+}
+.vector-icon14 {
+  position: absolute;
+  height: 43.66%;
+  width: 6.57%;
+  top: 42.25%;
+  right: 88.56%;
+  bottom: 14.08%;
+  left: 4.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent29 {
+  position: absolute;
+  height: 10.03%;
+  width: 36.53%;
+  top: 57.77%;
+  right: 55.18%;
+  bottom: 32.2%;
+  left: 8.28%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+}
+.rating8 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  line-height: 20px;
+  text-transform: uppercase;
+  text-shadow: 0 4px 100px #000;
+}
+.group-child46,
+.group-child47,
+.group-child48,
+.group-child49 {
+  position: absolute;
+  top: 26px;
+  left: 1.17px;
+  width: 48px;
+  height: 48px;
+}
+.group-child47,
+.group-child48,
+.group-child49 {
+  left: 59.17px;
+}
+.group-child48,
+.group-child49 {
+  left: 117.17px;
+}
+.group-child49 {
+  left: 175.17px;
+}
+.rating-group,
+.room-kosong3 {
+  position: absolute;
+  top: 507px;
+  left: 122px;
+  width: 222px;
+  height: 74px;
+}
+.room-kosong3 {
+  top: 58px;
+  left: 33px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.group-child50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.sedang-di-pakai3 {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.group-child51 {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-red);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.room-kosong-parent1 {
+  position: absolute;
+  top: 507px;
+  left: 388px;
+  width: 149px;
+  height: 79px;
+  text-align: left;
+}
+.group-parent7 {
+  position: absolute;
+  top: calc(50% - 354px);
+  left: calc(50% - 646px);
+  box-shadow: 30px 32px 4px rgba(0, 0, 0, 0.25);
+  width: 1292px;
+  height: 708px;
+}
+.group-child52 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  width: 151px;
+  height: 42px;
+}
+.next3 {
+  position: absolute;
+  top: 11px;
+  left: 52px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 723px;
+  left: 424px;
+  width: 151px;
+  height: 42px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.component-1-icon3 {
+  position: absolute;
+  height: 5.33%;
+  width: 3%;
+  top: 2.72%;
+  right: 94.41%;
+  bottom: 91.94%;
+  left: 2.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.background-wrapper {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}

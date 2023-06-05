@@ -1,0 +1,214 @@
+.background-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 900px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.clip-path-group,
+.vector-icon41 {
+  position: absolute;
+  top: 0;
+  max-height: 100%;
+}
+.vector-icon41 {
+  height: 100%;
+  bottom: 0;
+  left: calc(50% - 525px);
+  border-radius: var(--br-xs);
+  width: 1052px;
+}
+.clip-path-group {
+  height: 241.8%;
+  width: 105.02%;
+  right: -5.05%;
+  bottom: -141.8%;
+  left: 0.04%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.profile1,
+.your {
+  position: absolute;
+  top: 81.72%;
+  left: 20.74%;
+  line-height: 20px;
+  text-transform: uppercase;
+  text-shadow: 9px 1px 4px rgba(0, 0, 0, 0.25);
+}
+.profile1 {
+  left: 60.51%;
+  text-shadow: 9px 0 4px rgba(0, 0, 0, 0.25);
+}
+.objects {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1051px;
+  height: 279px;
+  overflow: hidden;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+}
+.group-child184,
+.isolation-mode-child {
+  position: absolute;
+  top: 139px;
+  left: 422px;
+  width: 207px;
+  height: 209px;
+}
+.group-child184 {
+  height: 106.61%;
+  width: 100.71%;
+  top: -3.31%;
+  right: -0.36%;
+  bottom: -3.31%;
+  left: -0.36%;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.material-symbolsinfo-icon {
+  position: absolute;
+  height: 78.43%;
+  width: 8.47%;
+  top: 11.76%;
+  right: 87.29%;
+  bottom: 9.8%;
+  left: 4.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.your-info {
+  position: absolute;
+  height: 39.22%;
+  width: 19.28%;
+  top: 17.72%;
+  left: 17.5%;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.rectangle-parent105 {
+  position: absolute;
+  height: 5.55%;
+  width: 26.67%;
+  top: 86.91%;
+  right: 36.38%;
+  bottom: 7.54%;
+  left: 36.95%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vector-icon42 {
+  position: absolute;
+  height: 60.78%;
+  width: 6.36%;
+  top: 15.69%;
+  right: 87.5%;
+  bottom: 23.53%;
+  left: 6.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.username {
+  position: absolute;
+  height: 39.22%;
+  width: 20.13%;
+  top: 16.98%;
+  left: 16.43%;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.rectangle-parent106 {
+  position: absolute;
+  height: 5.55%;
+  width: 26.67%;
+  top: 67.31%;
+  right: 36.38%;
+  bottom: 27.13%;
+  left: 36.95%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-xs);
+}
+.your-number {
+  position: absolute;
+  height: 39.22%;
+  width: 26.06%;
+  top: 21.69%;
+  left: 16.43%;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.vector-icon43 {
+  position: absolute;
+  height: 58.82%;
+  width: 6.36%;
+  top: 21.57%;
+  right: 87.5%;
+  bottom: 19.61%;
+  left: 6.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent107 {
+  position: absolute;
+  height: 5.55%;
+  width: 26.67%;
+  top: 77.33%;
+  right: 36.38%;
+  bottom: 17.12%;
+  left: 36.95%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-xs);
+}
+.log-out {
+  position: absolute;
+  top: 507px;
+  left: 405px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: var(--color-mediumslateblue);
+  cursor: pointer;
+}
+.isolation-mode {
+  position: absolute;
+  top: calc(50% - 273px);
+  left: calc(50% - 525px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1050px;
+  height: 545px;
+  overflow: hidden;
+}
+.component-1-icon14 {
+  position: absolute;
+  height: 5.33%;
+  width: 3%;
+  top: 2.28%;
+  right: 94.91%;
+  bottom: 92.39%;
+  left: 2.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.background-parent10 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-600);
+  font-family: var(--font-abel);
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./frame-45.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="background-root">
+      <img class="background-icon1" alt="" src="./public/background1.svg" />
+
+      <div class="rectangle-parent">
+        <div class="group-item"></div>
+        <img
+          class="clip-path-group"
+          alt=""
+          src="./public/clip-path-group.svg"
+        />
+
+        <img class="group-inner" alt="" src="./public/vector-3.svg" />
+
+        <div class="rectangle-group">
+          <div class="rectangle-div"></div>
+          <img class="vector-icon1" alt="" src="./public/vector1.svg" />
+
+          <div class="atas-nama">atas nama</div>
+        </div>
+        <div class="rectangle-container">
+          <div class="group-child1"></div>
+          <div class="mdicash"></div>
+          <div class="nominal-pembayaran">nominal pembayaran</div>
+          <img class="vector-icon2" alt="" src="./public/vector2.svg" />
+        </div>
+        <div class="group-div">
+          <div class="group-child2"></div>
+          <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
+        </div>
+        <div class="rectangle-parent1">
+          <div class="group-child3"></div>
+          <div class="berapa-jam">BERAPA JAM</div>
+          <img class="vector-icon3" alt="" src="./public/vector3.svg" />
+        </div>
+        <div class="vector-group" id="groupContainer4">
+          <img class="rectangle-icon" alt="" src="./public/rectangle-12.svg" />
+
+          <div class="next1">Next</div>
+        </div>
+      </div>
+      <div class="gopay">gopay</div>
+      <img
+        class="component-1-icon"
+        alt=""
+        src="./public/component-1.svg"
+        id="component1Icon"
+      />
+    </div>
+
+    <script>
+      var groupContainer4 = document.getElementById("groupContainer4");
+      if (groupContainer4) {
+        groupContainer4.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var component1Icon = document.getElementById("component1Icon");
+      if (component1Icon) {
+        component1Icon.addEventListener("click", function (e) {
+          window.location.href = "./frame-41.html";
+        });
+      }
+      </script>
+  </body>
+</html>

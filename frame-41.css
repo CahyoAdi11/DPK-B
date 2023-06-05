@@ -1,0 +1,196 @@
+.background-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2163px;
+  height: 1111px;
+  overflow: hidden;
+}
+.group-child24 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 646px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1292px;
+  height: 707px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.clip-path-group4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 100%;
+  bottom: 0;
+  left: -100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child25 {
+  position: absolute;
+  top: 0;
+  left: -1296px;
+  width: 839px;
+  height: 715px;
+}
+.group-child26,
+.group-child27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  width: 455px;
+  height: 83px;
+}
+.group-child27 {
+  border-radius: var(--br-mini) 0 0 var(--br-mini);
+  background-color: var(--color-white);
+  width: 115px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 16px;
+  left: 31px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.pay-with-gopay {
+  position: absolute;
+  top: 31px;
+  left: 158px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 178px;
+  left: -1157px;
+  width: 455px;
+  height: 83px;
+  cursor: pointer;
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) 0 0 var(--br-mini);
+  background-color: #128ce2;
+  width: 115px;
+  height: 83px;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  width: 66px;
+  height: 73px;
+  object-fit: cover;
+}
+.pay-with-dana {
+  position: absolute;
+  top: 31px;
+  left: 162px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 312px;
+  left: -1157px;
+  width: 455px;
+  height: 83px;
+  cursor: pointer;
+}
+.image-2-icon2 {
+  position: absolute;
+  top: 7px;
+  left: 28px;
+  width: 56px;
+  height: 69px;
+  object-fit: cover;
+}
+.pay-with-ovo {
+  position: absolute;
+  top: 31px;
+  left: 168px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 446px;
+  left: -1157px;
+  width: 455px;
+  height: 83px;
+  cursor: pointer;
+}
+.pay-with-cash {
+  position: absolute;
+  top: 31px;
+  left: 163px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.mdicash-icon {
+  position: absolute;
+  top: 3px;
+  left: 20px;
+  width: 76px;
+  height: 76px;
+  overflow: hidden;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 580px;
+  left: -1157px;
+  width: 455px;
+  height: 83px;
+  cursor: pointer;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 97px;
+  left: calc(50% + 646px);
+  width: 1292px;
+  height: 707px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.pembayaran {
+  position: absolute;
+  top: 179px;
+  left: 325px;
+  font-size: var(--font-size-57xl);
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.component-1-icon4 {
+  position: absolute;
+  height: 5.33%;
+  width: 3%;
+  top: 2.28%;
+  right: 94.91%;
+  bottom: 92.39%;
+  left: 2.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.background-frame {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}

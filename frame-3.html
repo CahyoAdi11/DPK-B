@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./frame-3.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="background-parent15">
+      <img class="background-icon20" alt="" src="./public/background8.svg" />
+
+      <div class="isolation-mode3">
+        <img class="vector-icon71" alt="" src="./public/vector24.svg" />
+
+        <div class="rectangle-parent155">
+          <div class="group-child245"></div>
+          <img class="vector-icon72" alt="" src="./public/vector26.svg" />
+
+          <div class="name-account1">name account</div>
+        </div>
+        <div class="rectangle-parent156">
+          <div class="group-child246"></div>
+          <img
+            class="mdipassword-icon2"
+            alt=""
+            src="./public/mdipassword2.svg"
+          />
+
+          <div class="password1">PAssword</div>
+        </div>
+        <div class="sign-up">Sign up</div>
+        <img class="objects-icon1" alt="" src="./public/objects1.svg" />
+
+        <div class="rectangle-parent157" id="groupContainer2">
+          <div class="group-child247"></div>
+          <div class="next17">Next</div>
+        </div>
+        <img class="isolation-mode-inner" alt="" src="./public/group-6.svg" />
+
+        <div class="login4" id="loginText">login</div>
+      </div>
+      <img class="frame-child180" alt="" src="./public/vector-21.svg" />
+
+      <div class="sign-up1">sign up</div>
+      <div class="rectangle-parent158" id="groupContainer3">
+        <div class="group-child248"></div>
+        <div class="group-child249"></div>
+        <img class="image-2-icon1" alt="" src="./public/image-2@2x.png" />
+
+        <div class="sigh-up-with">sigh up with google</div>
+      </div>
+      <div class="rectangle-parent159" id="groupContainer4">
+        <div class="group-child248"></div>
+        <div class="group-child249"></div>
+        <img
+          class="icbaseline-facebook-icon1"
+          alt=""
+          src="./public/icbaselinefacebook1.svg"
+        />
+
+        <div class="sigh-up-with1">sigh up with facebook</div>
+      </div>
+      <div class="rectangle-parent160" id="groupContainer5">
+        <div class="group-child248"></div>
+        <div class="group-child249"></div>
+        <img
+          class="icbaseline-apple-icon1"
+          alt=""
+          src="./public/icbaselineapple1.svg"
+        />
+
+        <div class="sigh-up-with1">sigh up with apple</div>
+      </div>
+      <img
+        class="component-1-icon17"
+        alt=""
+        src="./public/component-16.svg"
+        id="component1Icon"
+      />
+    </div>
+
+    <script>
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "./frame-5.html";
+        });
+      }
+      
+      var loginText = document.getElementById("loginText");
+      if (loginText) {
+        loginText.addEventListener("click", function (e) {
+          window.location.href = "./frame-4.html";
+        });
+      }
+      
+      var groupContainer3 = document.getElementById("groupContainer3");
+      if (groupContainer3) {
+        groupContainer3.addEventListener("click", function () {
+          window.open(
+            "https://accounts.google.com/v3/signin/identifier?dsh=S-2129757424%3A1684585815554869&authuser=0&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3DID&ec=GAlAmgQ&hl=id&flowName=GlifWebSignIn&flowEntry=AddSession"
+          );
+        });
+      }
+      
+      var groupContainer4 = document.getElementById("groupContainer4");
+      if (groupContainer4) {
+        groupContainer4.addEventListener("click", function () {
+          window.open("https://id-id.facebook.com/");
+        });
+      }
+      
+      var groupContainer5 = document.getElementById("groupContainer5");
+      if (groupContainer5) {
+        groupContainer5.addEventListener("click", function () {
+          window.open("https://appleid.apple.com/sign-in");
+        });
+      }
+      
+      var component1Icon = document.getElementById("component1Icon");
+      if (component1Icon) {
+        component1Icon.addEventListener("click", function (e) {
+          window.location.href = "./desktop-1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

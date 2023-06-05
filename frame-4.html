@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./frame-4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="background-parent14">
+      <img class="background-icon19" alt="" src="./public/background8.svg" />
+
+      <div class="background"></div>
+      <div class="isolation-mode2">
+        <img class="vector-icon69" alt="" src="./public/vector24.svg" />
+
+        <div class="rectangle-parent149">
+          <div class="group-child236"></div>
+          <img class="vector-icon70" alt="" src="./public/vector25.svg" />
+
+          <div class="name-account">name account</div>
+        </div>
+        <div class="rectangle-parent150">
+          <div class="group-child237"></div>
+          <img
+            class="mdipassword-icon1"
+            alt=""
+            src="./public/mdipassword1.svg"
+          />
+
+          <div class="password">PAssword</div>
+        </div>
+        <div class="login2">login</div>
+        <div class="forget-password1" id="forgetPasswordText">
+          Forget Password
+        </div>
+        <img class="objects-icon" alt="" src="./public/objects.svg" />
+
+        <div class="rectangle-parent151" id="groupContainer2">
+          <div class="group-child238"></div>
+          <div class="next16">Next</div>
+        </div>
+        <img class="isolation-mode-item" alt="" src="./public/group-6.svg" />
+      </div>
+      <img class="frame-child179" alt="" src="./public/vector-2.svg" />
+
+      <div class="login3">login</div>
+      <div class="rectangle-parent152" id="groupContainer3">
+        <div class="group-child239"></div>
+        <div class="group-child240"></div>
+        <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+        <div class="login-with-google">login with google</div>
+      </div>
+      <div class="rectangle-parent153" id="groupContainer4">
+        <div class="group-child239"></div>
+        <div class="group-child240"></div>
+        <img
+          class="icbaseline-facebook-icon"
+          alt=""
+          src="./public/icbaselinefacebook.svg"
+        />
+
+        <div class="login-with-facebook">login with facebook</div>
+      </div>
+      <div class="rectangle-parent154" id="groupContainer5">
+        <div class="group-child239"></div>
+        <div class="group-child240"></div>
+        <img
+          class="icbaseline-apple-icon"
+          alt=""
+          src="./public/icbaselineapple.svg"
+        />
+
+        <div class="login-with-facebook">login with apple</div>
+      </div>
+      <img
+        class="component-2-icon"
+        alt=""
+        src="./public/component-2.svg"
+        id="component2Icon"
+      />
+    </div>
+
+    <script>
+      var forgetPasswordText = document.getElementById("forgetPasswordText");
+      if (forgetPasswordText) {
+        forgetPasswordText.addEventListener("click", function (e) {
+          window.location.href = "./frame-6.html";
+        });
+      }
+      
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "./desktop-2.html";
+        });
+      }
+      
+      var groupContainer3 = document.getElementById("groupContainer3");
+      if (groupContainer3) {
+        groupContainer3.addEventListener("click", function () {
+          window.open(
+            "https://accounts.google.com/v3/signin/identifier?dsh=S-2129757424%3A1684585815554869&authuser=0&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3DID&ec=GAlAmgQ&hl=id&flowName=GlifWebSignIn&flowEntry=AddSession"
+          );
+        });
+      }
+      
+      var groupContainer4 = document.getElementById("groupContainer4");
+      if (groupContainer4) {
+        groupContainer4.addEventListener("click", function () {
+          window.open("https://id-id.facebook.com/");
+        });
+      }
+      
+      var groupContainer5 = document.getElementById("groupContainer5");
+      if (groupContainer5) {
+        groupContainer5.addEventListener("click", function () {
+          window.open("https://appleid.apple.com/sign-in");
+        });
+      }
+      
+      var component2Icon = document.getElementById("component2Icon");
+      if (component2Icon) {
+        component2Icon.addEventListener("click", function (e) {
+          window.location.href = "./desktop-1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

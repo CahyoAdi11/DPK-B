@@ -1,0 +1,219 @@
+.background-icon17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2163px;
+  height: 1111px;
+  overflow: hidden;
+}
+.group-icon {
+  position: absolute;
+  top: 97px;
+  left: calc(50% - 650px);
+  width: 1300px;
+  height: 715px;
+}
+.group-child228 {
+  position: absolute;
+  height: 74.65%;
+  width: 100.42%;
+  top: 26.76%;
+  right: -0.21%;
+  bottom: -1.41%;
+  left: -0.21%;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.vector-icon56 {
+  position: absolute;
+  height: 43.66%;
+  width: 6.36%;
+  top: 39.44%;
+  right: 88.35%;
+  bottom: 16.9%;
+  left: 5.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.name8,
+.your-account {
+  position: absolute;
+  top: 50.7%;
+  left: 18.43%;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.name8 {
+  top: 0;
+  left: 25px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  text-shadow: 0 4px 100px #000;
+}
+.rectangle-parent140 {
+  position: absolute;
+  height: 7.89%;
+  width: 29.5%;
+  top: 28.22%;
+  right: 53%;
+  bottom: 63.89%;
+  left: 17.5%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+}
+.group-child229 {
+  position: absolute;
+  height: 50.96%;
+  width: 100.42%;
+  top: 18.27%;
+  right: -0.21%;
+  bottom: 30.77%;
+  left: -0.21%;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.vector-icon57 {
+  position: absolute;
+  height: 29.81%;
+  width: 6.36%;
+  top: 26.92%;
+  right: 88.35%;
+  bottom: 43.27%;
+  left: 5.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kode-verification-akan,
+.verification-code,
+.your-code {
+  position: absolute;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.verification-code {
+  top: 34.62%;
+  left: 18.43%;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+}
+.kode-verification-akan,
+.your-code {
+  left: 25px;
+}
+.your-code {
+  top: 0;
+  text-shadow: 0 4px 100px #000;
+}
+.kode-verification-akan {
+  top: 84px;
+}
+.rectangle-parent141 {
+  position: absolute;
+  height: 11.56%;
+  width: 29.5%;
+  top: 39.67%;
+  right: 53%;
+  bottom: 48.78%;
+  left: 17.5%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.new-password1 {
+  position: absolute;
+  top: 50.7%;
+  left: 16.31%;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  color: var(--color-gray-600);
+}
+.mdipassword-icon {
+  position: absolute;
+  height: 56.34%;
+  width: 8.47%;
+  top: 36.62%;
+  right: 87.29%;
+  bottom: 7.04%;
+  left: 4.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child231,
+.rectangle-parent142 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-parent142 {
+  height: 7.89%;
+  width: 29.5%;
+  top: 54.89%;
+  right: 53%;
+  bottom: 37.22%;
+  left: 17.5%;
+}
+.group-child231 {
+  top: 0;
+  left: calc(50% - 67.53px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-mediumslateblue);
+  width: 135.05px;
+  height: 35.15px;
+}
+.next14 {
+  position: absolute;
+  top: 9px;
+  left: 44px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 44px;
+  height: 19px;
+}
+.rectangle-parent143 {
+  position: absolute;
+  top: 603px;
+  left: calc(50% - 352px);
+  width: 135.05px;
+  height: 35.15px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.forget-password {
+  position: absolute;
+  top: 179px;
+  left: 226px;
+  font-size: var(--font-size-57xl);
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.component-1-icon15 {
+  position: absolute;
+  height: 5.33%;
+  width: 3%;
+  top: 2.28%;
+  right: 94.91%;
+  bottom: 92.39%;
+  left: 2.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.background-parent12 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}

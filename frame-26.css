@@ -1,0 +1,313 @@
+.background-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 900px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.group-child115 {
+  left: calc(50% - 646px);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1292px;
+  height: 707px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.group-child115,
+.group-child116,
+.image-icon24 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-31xl);
+}
+.image-icon24 {
+  width: 69.66%;
+  right: 100%;
+  left: -69.66%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 707px;
+  object-fit: cover;
+}
+.group-child116 {
+  left: calc(50% - 1938px);
+  width: 849px;
+  height: 715px;
+}
+.room-051 {
+  position: absolute;
+  top: 65px;
+  left: -1146px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 394px;
+  height: 60px;
+}
+.rectangle-parent72 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 646px);
+  width: 1292px;
+  height: 707px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.group-child117 {
+  position: absolute;
+  height: 79.11%;
+  width: 100.42%;
+  top: 8.38%;
+  right: -0.21%;
+  bottom: 12.51%;
+  left: -0.21%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.room-menyediakan-pelayanan21 {
+  margin: 0;
+}
+.kursi-1-playstation7 {
+  margin-bottom: 0;
+}
+.kursi-1-playstation-ps4-pc-g1 {
+  margin: 0;
+  padding-left: var(--padding-lgi);
+}
+.deskripsi21,
+.room-menyediakan-pelayanan-container21 {
+  position: absolute;
+  height: 88.91%;
+  width: 94.7%;
+  top: 11.09%;
+  left: 3.18%;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.deskripsi21 {
+  top: 0;
+  left: 15px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abel);
+  color: var(--color-white);
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.rectangle-parent73 {
+  position: absolute;
+  height: 41.78%;
+  width: 36.53%;
+  top: 19.66%;
+  right: 55.19%;
+  bottom: 38.56%;
+  left: 8.28%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-gray-600);
+  font-family: var(--font-inherit);
+}
+.group-child118 {
+  position: absolute;
+  height: 75.27%;
+  width: 100.42%;
+  top: 26.16%;
+  right: -0.21%;
+  bottom: -1.42%;
+  left: -0.21%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.harga18,
+.rp-25000001 {
+  position: absolute;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.rp-25000001 {
+  height: 28.4%;
+  width: 26.69%;
+  top: 50.3%;
+  left: 15.47%;
+  display: inline-block;
+}
+.harga18 {
+  top: 0;
+  left: 22px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  text-shadow: 0 4px 100px #000;
+}
+.vector-icon30 {
+  position: absolute;
+  height: 44.02%;
+  width: 6.57%;
+  top: 41.78%;
+  right: 88.56%;
+  bottom: 14.2%;
+  left: 4.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent74 {
+  position: absolute;
+  height: 9.95%;
+  width: 36.53%;
+  top: 57.85%;
+  right: 55.18%;
+  bottom: 32.2%;
+  left: 8.28%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+}
+.rating22 {
+  position: absolute;
+  top: 507px;
+  left: 130px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  text-transform: uppercase;
+  text-shadow: 0 4px 100px #000;
+}
+.frame-child86,
+.frame-child87,
+.frame-child88,
+.frame-child89 {
+  position: absolute;
+  top: 533px;
+  left: 123.17px;
+  width: 48px;
+  height: 48px;
+}
+.frame-child87,
+.frame-child88,
+.frame-child89 {
+  left: 181.17px;
+}
+.frame-child88,
+.frame-child89 {
+  left: 239.17px;
+}
+.frame-child89 {
+  left: 297.17px;
+}
+.group-parent21 {
+  position: absolute;
+  top: calc(50% - 354px);
+  left: calc(50% - 646px);
+  box-shadow: 30px 32px 4px rgba(0, 0, 0, 0.25);
+  width: 1292px;
+  height: 707px;
+  text-align: center;
+}
+.room-kosong7 {
+  position: absolute;
+  top: 58px;
+  left: 33px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.group-child119 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray-300);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.sedang-di-pakai7 {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 116px;
+  height: 20px;
+  text-shadow: 0 4px 100px #000;
+}
+.group-child120 {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-red);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 21px;
+  height: 21px;
+}
+.room-kosong-parent5 {
+  position: absolute;
+  top: 603px;
+  left: 542px;
+  width: 149px;
+  height: 79px;
+  font-size: var(--font-size-base);
+}
+.group-child121 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  width: 151px;
+  height: 42px;
+}
+.next7 {
+  position: absolute;
+  top: 11px;
+  left: 52px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.vector-parent5 {
+  position: absolute;
+  top: 723px;
+  left: 424px;
+  width: 151px;
+  height: 42px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.component-1-icon7 {
+  position: absolute;
+  height: 5.33%;
+  width: 3%;
+  top: 2.72%;
+  right: 94.41%;
+  bottom: 91.94%;
+  left: 2.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.background-parent3 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}

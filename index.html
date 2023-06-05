@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-4">
+      <div class="frame"></div>
+      <div class="kosong-">-KOSONG-</div>
+      <div class="kosong-1">-KOSONG-</div>
+      <div class="kosong-2">-KOSONG-</div>
+      <div class="rectangle-parent">
+        <div class="rectangle"></div>
+        <div class="frame1">
+          <div class="frame2"></div>
+          <div class="image-1"></div>
+          <div class="frame-child"></div>
+          <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+          <div class="search">Search...</div>
+        </div>
+        <img class="vector-icon1" alt="" src="./public/vector1.svg" />
+
+        <div class="rectangle-group" id="groupContainer">
+          <div class="rectangle1"></div>
+          <div class="sigh-up">sigh up</div>
+        </div>
+        <div class="login" id="loginText">login</div>
+        <div class="list-room" id="listRoomText">list Room</div>
+        <div class="home" id="homeText">home</div>
+        <div class="rectangle-container">
+          <div class="group-child"></div>
+          <div class="my-book">my book</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./frame-3.html";
+        });
+      }
+      
+      var loginText = document.getElementById("loginText");
+      if (loginText) {
+        loginText.addEventListener("click", function (e) {
+          window.location.href = "./frame-4.html";
+        });
+      }
+      
+      var listRoomText = document.getElementById("listRoomText");
+      if (listRoomText) {
+        listRoomText.addEventListener("click", function (e) {
+          window.location.href = "./frame-30.html";
+        });
+      }
+      
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
